@@ -7,5 +7,6 @@ def countdown(d)
   
   
 end
-0 left. "Happy New Year"
+0 left. "Happy New Year!"
+end
 
